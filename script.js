@@ -17,3 +17,8 @@ function resetCounter(){
     counterValue = 0 ;
     updateCounterDisplay();
 }
+
+// function updateCounter(numberDifference) {
+//   counterValue += numberDifference;
+//   updateCounterDisplay();
+// }
